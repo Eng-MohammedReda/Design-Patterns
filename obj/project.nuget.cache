@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c93FsZ1MJ8X0bsKDX59FvwtRFx8pjG/s1sMBweR9jVZLr23AqIAtskU7PQ0ObqelCaHbpLBufn4tS8ptgX+brw==",
+  "success": true,
+  "projectFilePath": "D:\\Examples\\Design Patterns Examples\\DesignPatterns\\DesignPatterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mreda\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

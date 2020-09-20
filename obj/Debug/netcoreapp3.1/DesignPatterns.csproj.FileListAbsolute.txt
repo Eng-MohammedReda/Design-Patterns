@@ -1,0 +1,28 @@
+D:\Library\Cources\Mine\Design Patterns\Design Patterns Examples\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.exe
+D:\Library\Cources\Mine\Design Patterns\Design Patterns Examples\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.deps.json
+D:\Library\Cources\Mine\Design Patterns\Design Patterns Examples\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.json
+D:\Library\Cources\Mine\Design Patterns\Design Patterns Examples\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.dev.json
+D:\Library\Cources\Mine\Design Patterns\Design Patterns Examples\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.dll
+D:\Library\Cources\Mine\Design Patterns\Design Patterns Examples\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.pdb
+D:\Library\Cources\Mine\Design Patterns\Design Patterns Examples\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csprojAssemblyReference.cache
+D:\Library\Cources\Mine\Design Patterns\Design Patterns Examples\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfoInputs.cache
+D:\Library\Cources\Mine\Design Patterns\Design Patterns Examples\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfo.cs
+D:\Library\Cources\Mine\Design Patterns\Design Patterns Examples\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\Library\Cources\Mine\Design Patterns\Design Patterns Examples\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
+D:\Library\Cources\Mine\Design Patterns\Design Patterns Examples\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb
+D:\Library\Cources\Mine\Design Patterns\Design Patterns Examples\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.genruntimeconfig.cache
+D:\Examples\Design Patterns Examples\designpatterns\bin\Debug\netcoreapp3.1\DesignPatterns.exe
+D:\Examples\Design Patterns Examples\designpatterns\bin\Debug\netcoreapp3.1\DesignPatterns.deps.json
+D:\Examples\Design Patterns Examples\designpatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.json
+D:\Examples\Design Patterns Examples\designpatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.dev.json
+D:\Examples\Design Patterns Examples\designpatterns\bin\Debug\netcoreapp3.1\DesignPatterns.dll
+D:\Examples\Design Patterns Examples\designpatterns\bin\Debug\netcoreapp3.1\DesignPatterns.pdb
+D:\Examples\Design Patterns Examples\designpatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csprojAssemblyReference.cache
+D:\Examples\Design Patterns Examples\designpatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfoInputs.cache
+D:\Examples\Design Patterns Examples\designpatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfo.cs
+D:\Examples\Design Patterns Examples\designpatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CoreCompileInputs.cache
+D:\Examples\Design Patterns Examples\designpatterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
+D:\Examples\Design Patterns Examples\designpatterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb
+D:\Examples\Design Patterns Examples\designpatterns\obj\Debug\netcoreapp3.1\DesignPatterns.genruntimeconfig.cache
+D:\Examples\Design Patterns Examples\DesignPatterns\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Examples\Design Patterns Examples\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CopyComplete
