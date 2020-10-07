@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Examples\\Design Patterns Examples\\DesignPatterns\\DesignPatterns.csproj": {}
+    "C:\\Users\\mreda\\Desktop\\DPGit\\Design-Patterns\\DesignPatterns.csproj": {}
   },
   "projects": {
-    "D:\\Examples\\Design Patterns Examples\\DesignPatterns\\DesignPatterns.csproj": {
+    "C:\\Users\\mreda\\Desktop\\DPGit\\Design-Patterns\\DesignPatterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Examples\\Design Patterns Examples\\DesignPatterns\\DesignPatterns.csproj",
+        "projectUniqueName": "C:\\Users\\mreda\\Desktop\\DPGit\\Design-Patterns\\DesignPatterns.csproj",
         "projectName": "DesignPatterns",
-        "projectPath": "D:\\Examples\\Design Patterns Examples\\DesignPatterns\\DesignPatterns.csproj",
+        "projectPath": "C:\\Users\\mreda\\Desktop\\DPGit\\Design-Patterns\\DesignPatterns.csproj",
         "packagesPath": "C:\\Users\\mreda\\.nuget\\packages\\",
-        "outputPath": "D:\\Examples\\Design Patterns Examples\\DesignPatterns\\obj\\",
+        "outputPath": "C:\\Users\\mreda\\Desktop\\DPGit\\Design-Patterns\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,15 +1,14 @@
+using System;
+
 namespace DesignPatterns
 {
-    public class CustomerItemsDiscountCalc:IDiscountCalaculator
+    public class ItemsDiscountCalc:IDiscountCalaculator
     {
       
-        public double GetDiscountValue(string custId, string itemId)
+        public double GetDiscountValue(DateTime currentDate, string itemId)
         {
-          // call database to get customer transactions,
-          // sum total payment for specific item transaction
-          // if sum > 950, apply discount  
-          var custTotalTransactions = 1000;
-          return (custTotalTransactions > 950) ? 0.10:0.0;
+          // call database to calc item discount
+         return 0.10;
         }
     }
 }

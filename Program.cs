@@ -149,10 +149,9 @@ namespace DesignPatterns
             
             #region Flyweight
               DiscountCalcFactory discountFactory = new DiscountCalcFactory ();
-              var calculator = discountFactory.GetDiscountCalc("item");
-              var val=calculator.GetDiscountValue("123","789");
+              var calculator = discountFactory.GetDiscountCalc("day");
+              var val=calculator.GetDiscountValue(DateTime.Now.Date);
               WriteColoredLine(val.ToString());
-
             #endregion
 
             #endregion  // End of structural patterns

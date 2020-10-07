@@ -26,3 +26,18 @@ D:\Examples\Design Patterns Examples\designpatterns\obj\Debug\netcoreapp3.1\Desi
 D:\Examples\Design Patterns Examples\designpatterns\obj\Debug\netcoreapp3.1\DesignPatterns.genruntimeconfig.cache
 D:\Examples\Design Patterns Examples\DesignPatterns\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\Examples\Design Patterns Examples\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CopyComplete
+C:\Users\mreda\Desktop\DPGit\Design-Patterns\bin\Debug\netcoreapp3.1\DesignPatterns.exe
+C:\Users\mreda\Desktop\DPGit\Design-Patterns\bin\Debug\netcoreapp3.1\DesignPatterns.deps.json
+C:\Users\mreda\Desktop\DPGit\Design-Patterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.json
+C:\Users\mreda\Desktop\DPGit\Design-Patterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.dev.json
+C:\Users\mreda\Desktop\DPGit\Design-Patterns\bin\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\Users\mreda\Desktop\DPGit\Design-Patterns\bin\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\Users\mreda\Desktop\DPGit\Design-Patterns\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mreda\Desktop\DPGit\Design-Patterns\obj\Debug\netcoreapp3.1\DesignPatterns.csprojAssemblyReference.cache
+C:\Users\mreda\Desktop\DPGit\Design-Patterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfoInputs.cache
+C:\Users\mreda\Desktop\DPGit\Design-Patterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfo.cs
+C:\Users\mreda\Desktop\DPGit\Design-Patterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\mreda\Desktop\DPGit\Design-Patterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CopyComplete
+C:\Users\mreda\Desktop\DPGit\Design-Patterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
+C:\Users\mreda\Desktop\DPGit\Design-Patterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb
+C:\Users\mreda\Desktop\DPGit\Design-Patterns\obj\Debug\netcoreapp3.1\DesignPatterns.genruntimeconfig.cache
