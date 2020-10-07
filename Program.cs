@@ -136,15 +136,23 @@ namespace DesignPatterns
             
             #region Facade 
                
-               ShoppingBasket basket =new ShoppingBasket ();
+              /* ShoppingBasket basket =new ShoppingBasket ();
                basket.AddItem(new BasketItem {ItemID="123",ItemPrice=50,Quantity=3});
                basket.AddItem(new BasketItem {ItemID="456",ItemPrice=40,Quantity=2});
                
                PurchaseOrder order = new PurchaseOrder ();
                order.CreateOrder(basket,"name:mohammed,bank:123456789,mobile:0100000");
+               */
                
                
-               
+            #endregion
+            
+            #region Flyweight
+              DiscountCalcFactory discountFactory = new DiscountCalcFactory ();
+              var calculator = discountFactory.GetDiscountCalc("item");
+              var val=calculator.GetDiscountValue("123","789");
+              WriteColoredLine(val.ToString());
+
             #endregion
 
             #endregion  // End of structural patterns
